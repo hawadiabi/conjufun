@@ -1,0 +1,24 @@
+{
+  "name": "inm5151",
+  "version": "1.0.0",
+  "description": "ConjuFun est une application Flutter éducative qui aide les utilisateurs à pratiquer la conjugaison française sous forme de jeu interactif.  \r Elle fonctionne hors ligne grâce à une base de données locale SQLite et synchronise les statistiques lorsque l’utilisateur se reconnecte.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.info.uqam.ca/adekambi.adeoumi_faicoth/inm5151.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

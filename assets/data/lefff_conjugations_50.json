@@ -1,0 +1,3716 @@
+{
+  "suivre": {
+    "P": [
+      "suis",
+      "suis",
+      "suit",
+      "suivons",
+      "suivez",
+      "suivent"
+    ],
+    "S": [
+      "suive",
+      "suives",
+      "suive",
+      "suivions",
+      "suiviez",
+      "suivent"
+    ],
+    "Y": [
+      "NA",
+      "suis",
+      "NA",
+      "suivons",
+      "suivez",
+      "NA"
+    ],
+    "I": [
+      "suivais",
+      "suivais",
+      "suivait",
+      "suivions",
+      "suiviez",
+      "suivaient"
+    ],
+    "G": [
+      "suivant"
+    ],
+    "K": [
+      "suivi",
+      "suivis",
+      "suivie",
+      "suivies"
+    ],
+    "J": [
+      "suivis",
+      "suivis",
+      "suivit",
+      "suivîmes",
+      "suivîtes",
+      "suivirent"
+    ],
+    "T": [
+      "suivisse",
+      "suivisses",
+      "suivît",
+      "suivissions",
+      "suivissiez",
+      "suivissent"
+    ],
+    "F": [
+      "suivrai",
+      "suivras",
+      "suivra",
+      "suivrons",
+      "suivrez",
+      "suivront"
+    ],
+    "C": [
+      "suivrais",
+      "suivrais",
+      "suivrait",
+      "suivrions",
+      "suivriez",
+      "suivraient"
+    ],
+    "W": [
+      "suivre"
+    ]
+  },
+  "précéder": {
+    "P": [
+      "précède",
+      "précèdes",
+      "précède",
+      "précédons",
+      "précédez",
+      "précèdent"
+    ],
+    "S": [
+      "précède",
+      "précèdes",
+      "précède",
+      "précédions",
+      "précédiez",
+      "précèdent"
+    ],
+    "Y": [
+      "NA",
+      "précède",
+      "NA",
+      "précédons",
+      "précédez",
+      "NA"
+    ],
+    "I": [
+      "précédais",
+      "précédais",
+      "précédait",
+      "précédions",
+      "précédiez",
+      "précédaient"
+    ],
+    "G": [
+      "précédant"
+    ],
+    "K": [
+      "précédé",
+      "précédés",
+      "précédée",
+      "précédées"
+    ],
+    "J": [
+      "précédai",
+      "précédas",
+      "précéda",
+      "précédâmes",
+      "précédâtes",
+      "précédèrent"
+    ],
+    "T": [
+      "précédasse",
+      "précédasses",
+      "précédât",
+      "précédassions",
+      "précédassiez",
+      "précédassent"
+    ],
+    "F": [
+      "précéderai",
+      "précéderas",
+      "précédera",
+      "précéderons",
+      "précéderez",
+      "précéderont"
+    ],
+    "C": [
+      "précéderais",
+      "précéderais",
+      "précéderait",
+      "précéderions",
+      "précéderiez",
+      "précéderaient"
+    ],
+    "W": [
+      "précéder"
+    ]
+  },
+  "égaler": {
+    "P": [
+      "égale",
+      "égales",
+      "égale",
+      "égalons",
+      "égalez",
+      "égalent"
+    ],
+    "S": [
+      "égale",
+      "égales",
+      "égale",
+      "égalions",
+      "égaliez",
+      "égalent"
+    ],
+    "Y": [
+      "NA",
+      "égale",
+      "NA",
+      "égalons",
+      "égalez",
+      "NA"
+    ],
+    "I": [
+      "égalais",
+      "égalais",
+      "égalait",
+      "égalions",
+      "égaliez",
+      "égalaient"
+    ],
+    "G": [
+      "égalant"
+    ],
+    "K": [
+      "égalé",
+      "égalés",
+      "égalée",
+      "égalées"
+    ],
+    "J": [
+      "égalai",
+      "égalas",
+      "égala",
+      "égalâmes",
+      "égalâtes",
+      "égalèrent"
+    ],
+    "T": [
+      "égalasse",
+      "égalasses",
+      "égalât",
+      "égalassions",
+      "égalassiez",
+      "égalassent"
+    ],
+    "F": [
+      "égalerai",
+      "égaleras",
+      "égalera",
+      "égalerons",
+      "égalerez",
+      "égaleront"
+    ],
+    "C": [
+      "égalerais",
+      "égalerais",
+      "égalerait",
+      "égalerions",
+      "égaleriez",
+      "égaleraient"
+    ],
+    "W": [
+      "égaler"
+    ]
+  },
+  "uw": {},
+  "uwSe": {},
+  "avoir": {
+    "P": [
+      "ai",
+      "as",
+      "a",
+      "avons",
+      "avez",
+      "ont"
+    ],
+    "S": [
+      "aie",
+      "aies",
+      "ait",
+      "ayons",
+      "ayez",
+      "aient"
+    ],
+    "Y": [
+      "NA",
+      "aie",
+      "NA",
+      "ayons",
+      "ayez",
+      "NA"
+    ],
+    "I": [
+      "avais",
+      "avais",
+      "avait",
+      "avions",
+      "aviez",
+      "avaient"
+    ],
+    "G": [
+      "ayant"
+    ],
+    "K": [
+      "eu",
+      "eus",
+      "eue",
+      "eues"
+    ],
+    "J": [
+      "eus",
+      "eus",
+      "eut",
+      "eûmes",
+      "eûtes",
+      "eurent"
+    ],
+    "T": [
+      "eusse",
+      "eusses",
+      "eût",
+      "eussions",
+      "eussiez",
+      "eussent"
+    ],
+    "F": [
+      "aurai",
+      "auras",
+      "aura",
+      "aurons",
+      "aurez",
+      "auront"
+    ],
+    "C": [
+      "aurais",
+      "aurais",
+      "aurait",
+      "aurions",
+      "auriez",
+      "auraient"
+    ],
+    "W": [
+      "avoir"
+    ]
+  },
+  "abaisser": {
+    "P": [
+      "abaisse",
+      "abaisses",
+      "abaisse",
+      "abaissons",
+      "abaissez",
+      "abaissent"
+    ],
+    "S": [
+      "abaisse",
+      "abaisses",
+      "abaisse",
+      "abaissions",
+      "abaissiez",
+      "abaissent"
+    ],
+    "Y": [
+      "NA",
+      "abaisse",
+      "NA",
+      "abaissons",
+      "abaissez",
+      "NA"
+    ],
+    "I": [
+      "abaissais",
+      "abaissais",
+      "abaissait",
+      "abaissions",
+      "abaissiez",
+      "abaissaient"
+    ],
+    "G": [
+      "abaissant"
+    ],
+    "K": [
+      "abaissé",
+      "abaissés",
+      "abaissée",
+      "abaissées"
+    ],
+    "J": [
+      "abaissai",
+      "abaissas",
+      "abaissa",
+      "abaissâmes",
+      "abaissâtes",
+      "abaissèrent"
+    ],
+    "T": [
+      "abaissasse",
+      "abaissasses",
+      "abaissât",
+      "abaissassions",
+      "abaissassiez",
+      "abaissassent"
+    ],
+    "F": [
+      "abaisserai",
+      "abaisseras",
+      "abaissera",
+      "abaisserons",
+      "abaisserez",
+      "abaisseront"
+    ],
+    "C": [
+      "abaisserais",
+      "abaisserais",
+      "abaisserait",
+      "abaisserions",
+      "abaisseriez",
+      "abaisseraient"
+    ],
+    "W": [
+      "abaisser"
+    ]
+  },
+  "abandonner": {
+    "P": [
+      "abandonne",
+      "abandonnes",
+      "abandonne",
+      "abandonnons",
+      "abandonnez",
+      "abandonnent"
+    ],
+    "S": [
+      "abandonne",
+      "abandonnes",
+      "abandonne",
+      "abandonnions",
+      "abandonniez",
+      "abandonnent"
+    ],
+    "Y": [
+      "NA",
+      "abandonne",
+      "NA",
+      "abandonnons",
+      "abandonnez",
+      "NA"
+    ],
+    "I": [
+      "abandonnais",
+      "abandonnais",
+      "abandonnait",
+      "abandonnions",
+      "abandonniez",
+      "abandonnaient"
+    ],
+    "G": [
+      "abandonnant"
+    ],
+    "K": [
+      "abandonné",
+      "abandonnés",
+      "abandonnée",
+      "abandonnées"
+    ],
+    "J": [
+      "abandonnai",
+      "abandonnas",
+      "abandonna",
+      "abandonnâmes",
+      "abandonnâtes",
+      "abandonnèrent"
+    ],
+    "T": [
+      "abandonnasse",
+      "abandonnasses",
+      "abandonnât",
+      "abandonnassions",
+      "abandonnassiez",
+      "abandonnassent"
+    ],
+    "F": [
+      "abandonnerai",
+      "abandonneras",
+      "abandonnera",
+      "abandonnerons",
+      "abandonnerez",
+      "abandonneront"
+    ],
+    "C": [
+      "abandonnerais",
+      "abandonnerais",
+      "abandonnerait",
+      "abandonnerions",
+      "abandonneriez",
+      "abandonneraient"
+    ],
+    "W": [
+      "abandonner"
+    ]
+  },
+  "abasourdir": {
+    "P": [
+      "abasourdis",
+      "abasourdis",
+      "abasourdit",
+      "abasourdissons",
+      "abasourdissez",
+      "abasourdissent"
+    ],
+    "S": [
+      "abasourdisse",
+      "abasourdisses",
+      "abasourdisse",
+      "abasourdissions",
+      "abasourdissiez",
+      "abasourdissent"
+    ],
+    "Y": [
+      "NA",
+      "abasourdis",
+      "NA",
+      "abasourdissons",
+      "abasourdissez",
+      "NA"
+    ],
+    "I": [
+      "abasourdissais",
+      "abasourdissais",
+      "abasourdissait",
+      "abasourdissions",
+      "abasourdissiez",
+      "abasourdissaient"
+    ],
+    "G": [
+      "abasourdissant"
+    ],
+    "K": [
+      "abasourdi",
+      "abasourdis",
+      "abasourdie",
+      "abasourdies"
+    ],
+    "J": [
+      "abasourdis",
+      "abasourdis",
+      "abasourdit",
+      "abasourdîmes",
+      "abasourdîtes",
+      "abasourdirent"
+    ],
+    "T": [
+      "abasourdisse",
+      "abasourdisses",
+      "abasourdît",
+      "abasourdissions",
+      "abasourdissiez",
+      "abasourdissent"
+    ],
+    "F": [
+      "abasourdirai",
+      "abasourdiras",
+      "abasourdira",
+      "abasourdirons",
+      "abasourdirez",
+      "abasourdiront"
+    ],
+    "C": [
+      "abasourdirais",
+      "abasourdirais",
+      "abasourdirait",
+      "abasourdirions",
+      "abasourdiriez",
+      "abasourdiraient"
+    ],
+    "W": [
+      "abasourdir"
+    ]
+  },
+  "abattre": {
+    "P": [
+      "abats",
+      "abats",
+      "abat",
+      "abattons",
+      "abattez",
+      "abattent"
+    ],
+    "S": [
+      "abatte",
+      "abattes",
+      "abatte",
+      "abattions",
+      "abattiez",
+      "abattent"
+    ],
+    "Y": [
+      "NA",
+      "abats",
+      "NA",
+      "abattons",
+      "abattez",
+      "NA"
+    ],
+    "I": [
+      "abattais",
+      "abattais",
+      "abattait",
+      "abattions",
+      "abattiez",
+      "abattaient"
+    ],
+    "G": [
+      "abattant"
+    ],
+    "K": [
+      "abattu",
+      "abattus",
+      "abattue",
+      "abattues"
+    ],
+    "J": [
+      "abattis",
+      "abattis",
+      "abattit",
+      "abattîmes",
+      "abattîtes",
+      "abattirent"
+    ],
+    "T": [
+      "abattisse",
+      "abattisses",
+      "abattît",
+      "abattissions",
+      "abattissiez",
+      "abattissent"
+    ],
+    "F": [
+      "abattrai",
+      "abattras",
+      "abattra",
+      "abattrons",
+      "abattrez",
+      "abattront"
+    ],
+    "C": [
+      "abattrais",
+      "abattrais",
+      "abattrait",
+      "abattrions",
+      "abattriez",
+      "abattraient"
+    ],
+    "W": [
+      "abattre"
+    ]
+  },
+  "abcéder": {
+    "P": [
+      "abcède",
+      "abcèdes",
+      "abcède",
+      "abcédons",
+      "abcédez",
+      "abcèdent"
+    ],
+    "S": [
+      "abcède",
+      "abcèdes",
+      "abcède",
+      "abcédions",
+      "abcédiez",
+      "abcèdent"
+    ],
+    "Y": [
+      "NA",
+      "abcède",
+      "NA",
+      "abcédons",
+      "abcédez",
+      "NA"
+    ],
+    "I": [
+      "abcédais",
+      "abcédais",
+      "abcédait",
+      "abcédions",
+      "abcédiez",
+      "abcédaient"
+    ],
+    "G": [
+      "abcédant"
+    ],
+    "K": [
+      "abcédé",
+      "abcédés",
+      "abcédée",
+      "abcédées"
+    ],
+    "J": [
+      "abcédai",
+      "abcédas",
+      "abcéda",
+      "abcédâmes",
+      "abcédâtes",
+      "abcédèrent"
+    ],
+    "T": [
+      "abcédasse",
+      "abcédasses",
+      "abcédât",
+      "abcédassions",
+      "abcédassiez",
+      "abcédassent"
+    ],
+    "F": [
+      "abcéderai",
+      "abcéderas",
+      "abcédera",
+      "abcéderons",
+      "abcéderez",
+      "abcéderont"
+    ],
+    "C": [
+      "abcéderais",
+      "abcéderais",
+      "abcéderait",
+      "abcéderions",
+      "abcéderiez",
+      "abcéderaient"
+    ],
+    "W": [
+      "abcéder"
+    ]
+  },
+  "abdiquer": {
+    "P": [
+      "abdique",
+      "abdiques",
+      "abdique",
+      "abdiquons",
+      "abdiquez",
+      "abdiquent"
+    ],
+    "S": [
+      "abdique",
+      "abdiques",
+      "abdique",
+      "abdiquions",
+      "abdiquiez",
+      "abdiquent"
+    ],
+    "Y": [
+      "NA",
+      "abdique",
+      "NA",
+      "abdiquons",
+      "abdiquez",
+      "NA"
+    ],
+    "I": [
+      "abdiquais",
+      "abdiquais",
+      "abdiquait",
+      "abdiquions",
+      "abdiquiez",
+      "abdiquaient"
+    ],
+    "G": [
+      "abdiquant"
+    ],
+    "K": [
+      "abdiqué",
+      "abdiqués",
+      "abdiquée",
+      "abdiquées"
+    ],
+    "J": [
+      "abdiquai",
+      "abdiquas",
+      "abdiqua",
+      "abdiquâmes",
+      "abdiquâtes",
+      "abdiquèrent"
+    ],
+    "T": [
+      "abdiquasse",
+      "abdiquasses",
+      "abdiquât",
+      "abdiquassions",
+      "abdiquassiez",
+      "abdiquassent"
+    ],
+    "F": [
+      "abdiquerai",
+      "abdiqueras",
+      "abdiquera",
+      "abdiquerons",
+      "abdiquerez",
+      "abdiqueront"
+    ],
+    "C": [
+      "abdiquerais",
+      "abdiquerais",
+      "abdiquerait",
+      "abdiquerions",
+      "abdiqueriez",
+      "abdiqueraient"
+    ],
+    "W": [
+      "abdiquer"
+    ]
+  },
+  "abhorrer": {
+    "P": [
+      "abhorre",
+      "abhorres",
+      "abhorre",
+      "abhorrons",
+      "abhorrez",
+      "abhorrent"
+    ],
+    "S": [
+      "abhorre",
+      "abhorres",
+      "abhorre",
+      "abhorrions",
+      "abhorriez",
+      "abhorrent"
+    ],
+    "Y": [
+      "NA",
+      "abhorre",
+      "NA",
+      "abhorrons",
+      "abhorrez",
+      "NA"
+    ],
+    "I": [
+      "abhorrais",
+      "abhorrais",
+      "abhorrait",
+      "abhorrions",
+      "abhorriez",
+      "abhorraient"
+    ],
+    "G": [
+      "abhorrant"
+    ],
+    "K": [
+      "abhorré",
+      "abhorrés",
+      "abhorrée",
+      "abhorrées"
+    ],
+    "J": [
+      "abhorrai",
+      "abhorras",
+      "abhorra",
+      "abhorrâmes",
+      "abhorrâtes",
+      "abhorrèrent"
+    ],
+    "T": [
+      "abhorrasse",
+      "abhorrasses",
+      "abhorrât",
+      "abhorrassions",
+      "abhorrassiez",
+      "abhorrassent"
+    ],
+    "F": [
+      "abhorrerai",
+      "abhorreras",
+      "abhorrera",
+      "abhorrerons",
+      "abhorrerez",
+      "abhorreront"
+    ],
+    "C": [
+      "abhorrerais",
+      "abhorrerais",
+      "abhorrerait",
+      "abhorrerions",
+      "abhorreriez",
+      "abhorreraient"
+    ],
+    "W": [
+      "abhorrer"
+    ]
+  },
+  "abjurer": {
+    "P": [
+      "abjure",
+      "abjures",
+      "abjure",
+      "abjurons",
+      "abjurez",
+      "abjurent"
+    ],
+    "S": [
+      "abjure",
+      "abjures",
+      "abjure",
+      "abjurions",
+      "abjuriez",
+      "abjurent"
+    ],
+    "Y": [
+      "NA",
+      "abjure",
+      "NA",
+      "abjurons",
+      "abjurez",
+      "NA"
+    ],
+    "I": [
+      "abjurais",
+      "abjurais",
+      "abjurait",
+      "abjurions",
+      "abjuriez",
+      "abjuraient"
+    ],
+    "G": [
+      "abjurant"
+    ],
+    "K": [
+      "abjuré",
+      "abjurés",
+      "abjurée",
+      "abjurées"
+    ],
+    "J": [
+      "abjurai",
+      "abjuras",
+      "abjura",
+      "abjurâmes",
+      "abjurâtes",
+      "abjurèrent"
+    ],
+    "T": [
+      "abjurasse",
+      "abjurasses",
+      "abjurât",
+      "abjurassions",
+      "abjurassiez",
+      "abjurassent"
+    ],
+    "F": [
+      "abjurerai",
+      "abjureras",
+      "abjurera",
+      "abjurerons",
+      "abjurerez",
+      "abjureront"
+    ],
+    "C": [
+      "abjurerais",
+      "abjurerais",
+      "abjurerait",
+      "abjurerions",
+      "abjureriez",
+      "abjureraient"
+    ],
+    "W": [
+      "abjurer"
+    ]
+  },
+  "aboyer": {
+    "P": [
+      "aboie",
+      "aboies",
+      "aboie",
+      "aboyons",
+      "aboyez",
+      "aboient"
+    ],
+    "S": [
+      "aboie",
+      "aboies",
+      "aboie",
+      "aboyions",
+      "aboyiez",
+      "aboient"
+    ],
+    "Y": [
+      "NA",
+      "aboie",
+      "NA",
+      "aboyons",
+      "aboyez",
+      "NA"
+    ],
+    "I": [
+      "aboyais",
+      "aboyais",
+      "aboyait",
+      "aboyions",
+      "aboyiez",
+      "aboyaient"
+    ],
+    "G": [
+      "aboyant"
+    ],
+    "K": [
+      "aboyé",
+      "aboyés",
+      "aboyée",
+      "aboyées"
+    ],
+    "J": [
+      "aboyai",
+      "aboyas",
+      "aboya",
+      "aboyâmes",
+      "aboyâtes",
+      "aboyèrent"
+    ],
+    "T": [
+      "aboyasse",
+      "aboyasses",
+      "aboyât",
+      "aboyassions",
+      "aboyassiez",
+      "aboyassent"
+    ],
+    "F": [
+      "aboierai",
+      "aboieras",
+      "aboiera",
+      "aboierons",
+      "aboierez",
+      "aboieront"
+    ],
+    "C": [
+      "aboierais",
+      "aboierais",
+      "aboierait",
+      "aboierions",
+      "aboieriez",
+      "aboieraient"
+    ],
+    "W": [
+      "aboyer"
+    ]
+  },
+  "abolir": {
+    "P": [
+      "abolis",
+      "abolis",
+      "abolit",
+      "abolissons",
+      "abolissez",
+      "abolissent"
+    ],
+    "S": [
+      "abolisse",
+      "abolisses",
+      "abolisse",
+      "abolissions",
+      "abolissiez",
+      "abolissent"
+    ],
+    "Y": [
+      "NA",
+      "abolis",
+      "NA",
+      "abolissons",
+      "abolissez",
+      "NA"
+    ],
+    "I": [
+      "abolissais",
+      "abolissais",
+      "abolissait",
+      "abolissions",
+      "abolissiez",
+      "abolissaient"
+    ],
+    "G": [
+      "abolissant"
+    ],
+    "K": [
+      "aboli",
+      "abolis",
+      "abolie",
+      "abolies"
+    ],
+    "J": [
+      "abolis",
+      "abolis",
+      "abolit",
+      "abolîmes",
+      "abolîtes",
+      "abolirent"
+    ],
+    "T": [
+      "abolisse",
+      "abolisses",
+      "abolît",
+      "abolissions",
+      "abolissiez",
+      "abolissent"
+    ],
+    "F": [
+      "abolirai",
+      "aboliras",
+      "abolira",
+      "abolirons",
+      "abolirez",
+      "aboliront"
+    ],
+    "C": [
+      "abolirais",
+      "abolirais",
+      "abolirait",
+      "abolirions",
+      "aboliriez",
+      "aboliraient"
+    ],
+    "W": [
+      "abolir"
+    ]
+  },
+  "abominer": {
+    "P": [
+      "abomine",
+      "abomines",
+      "abomine",
+      "abominons",
+      "abominez",
+      "abominent"
+    ],
+    "S": [
+      "abomine",
+      "abomines",
+      "abomine",
+      "abominions",
+      "abominiez",
+      "abominent"
+    ],
+    "Y": [
+      "NA",
+      "abomine",
+      "NA",
+      "abominons",
+      "abominez",
+      "NA"
+    ],
+    "I": [
+      "abominais",
+      "abominais",
+      "abominait",
+      "abominions",
+      "abominiez",
+      "abominaient"
+    ],
+    "G": [
+      "abominant"
+    ],
+    "K": [
+      "abominé",
+      "abominés",
+      "abominée",
+      "abominées"
+    ],
+    "J": [
+      "abominai",
+      "abominas",
+      "abomina",
+      "abominâmes",
+      "abominâtes",
+      "abominèrent"
+    ],
+    "T": [
+      "abominasse",
+      "abominasses",
+      "abominât",
+      "abominassions",
+      "abominassiez",
+      "abominassent"
+    ],
+    "F": [
+      "abominerai",
+      "abomineras",
+      "abominera",
+      "abominerons",
+      "abominerez",
+      "abomineront"
+    ],
+    "C": [
+      "abominerais",
+      "abominerais",
+      "abominerait",
+      "abominerions",
+      "abomineriez",
+      "abomineraient"
+    ],
+    "W": [
+      "abominer"
+    ]
+  },
+  "abonder": {
+    "P": [
+      "abonde",
+      "abondes",
+      "abonde",
+      "abondons",
+      "abondez",
+      "abondent"
+    ],
+    "S": [
+      "abonde",
+      "abondes",
+      "abonde",
+      "abondions",
+      "abondiez",
+      "abondent"
+    ],
+    "Y": [
+      "NA",
+      "abonde",
+      "NA",
+      "abondons",
+      "abondez",
+      "NA"
+    ],
+    "I": [
+      "abondais",
+      "abondais",
+      "abondait",
+      "abondions",
+      "abondiez",
+      "abondaient"
+    ],
+    "G": [
+      "abondant"
+    ],
+    "K": [
+      "abondé",
+      "abondés",
+      "abondée",
+      "abondées"
+    ],
+    "J": [
+      "abondai",
+      "abondas",
+      "abonda",
+      "abondâmes",
+      "abondâtes",
+      "abondèrent"
+    ],
+    "T": [
+      "abondasse",
+      "abondasses",
+      "abondât",
+      "abondassions",
+      "abondassiez",
+      "abondassent"
+    ],
+    "F": [
+      "abonderai",
+      "abonderas",
+      "abondera",
+      "abonderons",
+      "abonderez",
+      "abonderont"
+    ],
+    "C": [
+      "abonderais",
+      "abonderais",
+      "abonderait",
+      "abonderions",
+      "abonderiez",
+      "abonderaient"
+    ],
+    "W": [
+      "abonder"
+    ]
+  },
+  "abonner": {
+    "P": [
+      "abonne",
+      "abonnes",
+      "abonne",
+      "abonnons",
+      "abonnez",
+      "abonnent"
+    ],
+    "S": [
+      "abonne",
+      "abonnes",
+      "abonne",
+      "abonnions",
+      "abonniez",
+      "abonnent"
+    ],
+    "Y": [
+      "NA",
+      "abonne",
+      "NA",
+      "abonnons",
+      "abonnez",
+      "NA"
+    ],
+    "I": [
+      "abonnais",
+      "abonnais",
+      "abonnait",
+      "abonnions",
+      "abonniez",
+      "abonnaient"
+    ],
+    "G": [
+      "abonnant"
+    ],
+    "K": [
+      "abonné",
+      "abonnés",
+      "abonnée",
+      "abonnées"
+    ],
+    "J": [
+      "abonnai",
+      "abonnas",
+      "abonna",
+      "abonnâmes",
+      "abonnâtes",
+      "abonnèrent"
+    ],
+    "T": [
+      "abonnasse",
+      "abonnasses",
+      "abonnât",
+      "abonnassions",
+      "abonnassiez",
+      "abonnassent"
+    ],
+    "F": [
+      "abonnerai",
+      "abonneras",
+      "abonnera",
+      "abonnerons",
+      "abonnerez",
+      "abonneront"
+    ],
+    "C": [
+      "abonnerais",
+      "abonnerais",
+      "abonnerait",
+      "abonnerions",
+      "abonneriez",
+      "abonneraient"
+    ],
+    "W": [
+      "abonner"
+    ]
+  },
+  "abonnir": {
+    "P": [
+      "abonnis",
+      "abonnis",
+      "abonnit",
+      "abonnissons",
+      "abonnissez",
+      "abonnissent"
+    ],
+    "S": [
+      "abonnisse",
+      "abonnisses",
+      "abonnisse",
+      "abonnissions",
+      "abonnissiez",
+      "abonnissent"
+    ],
+    "Y": [
+      "NA",
+      "abonnis",
+      "NA",
+      "abonnissons",
+      "abonnissez",
+      "NA"
+    ],
+    "I": [
+      "abonnissais",
+      "abonnissais",
+      "abonnissait",
+      "abonnissions",
+      "abonnissiez",
+      "abonnissaient"
+    ],
+    "G": [
+      "abonnissant"
+    ],
+    "K": [
+      "abonni",
+      "abonnis",
+      "abonnie",
+      "abonnies"
+    ],
+    "J": [
+      "abonnis",
+      "abonnis",
+      "abonnit",
+      "abonnîmes",
+      "abonnîtes",
+      "abonnirent"
+    ],
+    "T": [
+      "abonnisse",
+      "abonnisses",
+      "abonnît",
+      "abonnissions",
+      "abonnissiez",
+      "abonnissent"
+    ],
+    "F": [
+      "abonnirai",
+      "abonniras",
+      "abonnira",
+      "abonnirons",
+      "abonnirez",
+      "abonniront"
+    ],
+    "C": [
+      "abonnirais",
+      "abonnirais",
+      "abonnirait",
+      "abonnirions",
+      "abonniriez",
+      "abonniraient"
+    ],
+    "W": [
+      "abonnir"
+    ]
+  },
+  "aborder": {
+    "P": [
+      "aborde",
+      "abordes",
+      "aborde",
+      "abordons",
+      "abordez",
+      "abordent"
+    ],
+    "S": [
+      "aborde",
+      "abordes",
+      "aborde",
+      "abordions",
+      "abordiez",
+      "abordent"
+    ],
+    "Y": [
+      "NA",
+      "aborde",
+      "NA",
+      "abordons",
+      "abordez",
+      "NA"
+    ],
+    "I": [
+      "abordais",
+      "abordais",
+      "abordait",
+      "abordions",
+      "abordiez",
+      "abordaient"
+    ],
+    "G": [
+      "abordant"
+    ],
+    "K": [
+      "abordé",
+      "abordés",
+      "abordée",
+      "abordées"
+    ],
+    "J": [
+      "abordai",
+      "abordas",
+      "aborda",
+      "abordâmes",
+      "abordâtes",
+      "abordèrent"
+    ],
+    "T": [
+      "abordasse",
+      "abordasses",
+      "abordât",
+      "abordassions",
+      "abordassiez",
+      "abordassent"
+    ],
+    "F": [
+      "aborderai",
+      "aborderas",
+      "abordera",
+      "aborderons",
+      "aborderez",
+      "aborderont"
+    ],
+    "C": [
+      "aborderais",
+      "aborderais",
+      "aborderait",
+      "aborderions",
+      "aborderiez",
+      "aborderaient"
+    ],
+    "W": [
+      "aborder"
+    ]
+  },
+  "aboucher": {
+    "P": [
+      "abouche",
+      "abouches",
+      "abouche",
+      "abouchons",
+      "abouchez",
+      "abouchent"
+    ],
+    "S": [
+      "abouche",
+      "abouches",
+      "abouche",
+      "abouchions",
+      "abouchiez",
+      "abouchent"
+    ],
+    "Y": [
+      "NA",
+      "abouche",
+      "NA",
+      "abouchons",
+      "abouchez",
+      "NA"
+    ],
+    "I": [
+      "abouchais",
+      "abouchais",
+      "abouchait",
+      "abouchions",
+      "abouchiez",
+      "abouchaient"
+    ],
+    "G": [
+      "abouchant"
+    ],
+    "K": [
+      "abouché",
+      "abouchés",
+      "abouchée",
+      "abouchées"
+    ],
+    "J": [
+      "abouchai",
+      "abouchas",
+      "aboucha",
+      "abouchâmes",
+      "abouchâtes",
+      "abouchèrent"
+    ],
+    "T": [
+      "abouchasse",
+      "abouchasses",
+      "abouchât",
+      "abouchassions",
+      "abouchassiez",
+      "abouchassent"
+    ],
+    "F": [
+      "aboucherai",
+      "aboucheras",
+      "abouchera",
+      "aboucherons",
+      "aboucherez",
+      "aboucheront"
+    ],
+    "C": [
+      "aboucherais",
+      "aboucherais",
+      "aboucherait",
+      "aboucherions",
+      "aboucheriez",
+      "aboucheraient"
+    ],
+    "W": [
+      "aboucher"
+    ]
+  },
+  "abouler": {
+    "P": [
+      "aboule",
+      "aboules",
+      "aboule",
+      "aboulons",
+      "aboulez",
+      "aboulent"
+    ],
+    "S": [
+      "aboule",
+      "aboules",
+      "aboule",
+      "aboulions",
+      "abouliez",
+      "aboulent"
+    ],
+    "Y": [
+      "NA",
+      "aboule",
+      "NA",
+      "aboulons",
+      "aboulez",
+      "NA"
+    ],
+    "I": [
+      "aboulais",
+      "aboulais",
+      "aboulait",
+      "aboulions",
+      "abouliez",
+      "aboulaient"
+    ],
+    "G": [
+      "aboulant"
+    ],
+    "K": [
+      "aboulé",
+      "aboulés",
+      "aboulée",
+      "aboulées"
+    ],
+    "J": [
+      "aboulai",
+      "aboulas",
+      "aboula",
+      "aboulâmes",
+      "aboulâtes",
+      "aboulèrent"
+    ],
+    "T": [
+      "aboulasse",
+      "aboulasses",
+      "aboulât",
+      "aboulassions",
+      "aboulassiez",
+      "aboulassent"
+    ],
+    "F": [
+      "aboulerai",
+      "abouleras",
+      "aboulera",
+      "aboulerons",
+      "aboulerez",
+      "abouleront"
+    ],
+    "C": [
+      "aboulerais",
+      "aboulerais",
+      "aboulerait",
+      "aboulerions",
+      "abouleriez",
+      "abouleraient"
+    ],
+    "W": [
+      "abouler"
+    ]
+  },
+  "abouter": {
+    "P": [
+      "aboute",
+      "aboutes",
+      "aboute",
+      "aboutons",
+      "aboutez",
+      "aboutent"
+    ],
+    "S": [
+      "aboute",
+      "aboutes",
+      "aboute",
+      "aboutions",
+      "aboutiez",
+      "aboutent"
+    ],
+    "Y": [
+      "NA",
+      "aboute",
+      "NA",
+      "aboutons",
+      "aboutez",
+      "NA"
+    ],
+    "I": [
+      "aboutais",
+      "aboutais",
+      "aboutait",
+      "aboutions",
+      "aboutiez",
+      "aboutaient"
+    ],
+    "G": [
+      "aboutant"
+    ],
+    "K": [
+      "abouté",
+      "aboutés",
+      "aboutée",
+      "aboutées"
+    ],
+    "J": [
+      "aboutai",
+      "aboutas",
+      "abouta",
+      "aboutâmes",
+      "aboutâtes",
+      "aboutèrent"
+    ],
+    "T": [
+      "aboutasse",
+      "aboutasses",
+      "aboutât",
+      "aboutassions",
+      "aboutassiez",
+      "aboutassent"
+    ],
+    "F": [
+      "abouterai",
+      "abouteras",
+      "aboutera",
+      "abouterons",
+      "abouterez",
+      "abouteront"
+    ],
+    "C": [
+      "abouterais",
+      "abouterais",
+      "abouterait",
+      "abouterions",
+      "abouteriez",
+      "abouteraient"
+    ],
+    "W": [
+      "abouter"
+    ]
+  },
+  "aboutir": {
+    "P": [
+      "aboutis",
+      "aboutis",
+      "aboutit",
+      "aboutissons",
+      "aboutissez",
+      "aboutissent"
+    ],
+    "S": [
+      "aboutisse",
+      "aboutisses",
+      "aboutisse",
+      "aboutissions",
+      "aboutissiez",
+      "aboutissent"
+    ],
+    "Y": [
+      "NA",
+      "aboutis",
+      "NA",
+      "aboutissons",
+      "aboutissez",
+      "NA"
+    ],
+    "I": [
+      "aboutissais",
+      "aboutissais",
+      "aboutissait",
+      "aboutissions",
+      "aboutissiez",
+      "aboutissaient"
+    ],
+    "G": [
+      "aboutissant"
+    ],
+    "K": [
+      "abouti",
+      "aboutis",
+      "aboutie",
+      "abouties"
+    ],
+    "J": [
+      "aboutis",
+      "aboutis",
+      "aboutit",
+      "aboutîmes",
+      "aboutîtes",
+      "aboutirent"
+    ],
+    "T": [
+      "aboutisse",
+      "aboutisses",
+      "aboutît",
+      "aboutissions",
+      "aboutissiez",
+      "aboutissent"
+    ],
+    "F": [
+      "aboutirai",
+      "aboutiras",
+      "aboutira",
+      "aboutirons",
+      "aboutirez",
+      "aboutiront"
+    ],
+    "C": [
+      "aboutirais",
+      "aboutirais",
+      "aboutirait",
+      "aboutirions",
+      "aboutiriez",
+      "aboutiraient"
+    ],
+    "W": [
+      "aboutir"
+    ]
+  },
+  "abraser": {
+    "P": [
+      "abrase",
+      "abrases",
+      "abrase",
+      "abrasons",
+      "abrasez",
+      "abrasent"
+    ],
+    "S": [
+      "abrase",
+      "abrases",
+      "abrase",
+      "abrasions",
+      "abrasiez",
+      "abrasent"
+    ],
+    "Y": [
+      "NA",
+      "abrase",
+      "NA",
+      "abrasons",
+      "abrasez",
+      "NA"
+    ],
+    "I": [
+      "abrasais",
+      "abrasais",
+      "abrasait",
+      "abrasions",
+      "abrasiez",
+      "abrasaient"
+    ],
+    "G": [
+      "abrasant"
+    ],
+    "K": [
+      "abrasé",
+      "abrasés",
+      "abrasée",
+      "abrasées"
+    ],
+    "J": [
+      "abrasai",
+      "abrasas",
+      "abrasa",
+      "abrasâmes",
+      "abrasâtes",
+      "abrasèrent"
+    ],
+    "T": [
+      "abrasasse",
+      "abrasasses",
+      "abrasât",
+      "abrasassions",
+      "abrasassiez",
+      "abrasassent"
+    ],
+    "F": [
+      "abraserai",
+      "abraseras",
+      "abrasera",
+      "abraserons",
+      "abraserez",
+      "abraseront"
+    ],
+    "C": [
+      "abraserais",
+      "abraserais",
+      "abraserait",
+      "abraserions",
+      "abraseriez",
+      "abraseraient"
+    ],
+    "W": [
+      "abraser"
+    ]
+  },
+  "abreuver": {
+    "P": [
+      "abreuve",
+      "abreuves",
+      "abreuve",
+      "abreuvons",
+      "abreuvez",
+      "abreuvent"
+    ],
+    "S": [
+      "abreuve",
+      "abreuves",
+      "abreuve",
+      "abreuvions",
+      "abreuviez",
+      "abreuvent"
+    ],
+    "Y": [
+      "NA",
+      "abreuve",
+      "NA",
+      "abreuvons",
+      "abreuvez",
+      "NA"
+    ],
+    "I": [
+      "abreuvais",
+      "abreuvais",
+      "abreuvait",
+      "abreuvions",
+      "abreuviez",
+      "abreuvaient"
+    ],
+    "G": [
+      "abreuvant"
+    ],
+    "K": [
+      "abreuvé",
+      "abreuvés",
+      "abreuvée",
+      "abreuvées"
+    ],
+    "J": [
+      "abreuvai",
+      "abreuvas",
+      "abreuva",
+      "abreuvâmes",
+      "abreuvâtes",
+      "abreuvèrent"
+    ],
+    "T": [
+      "abreuvasse",
+      "abreuvasses",
+      "abreuvât",
+      "abreuvassions",
+      "abreuvassiez",
+      "abreuvassent"
+    ],
+    "F": [
+      "abreuverai",
+      "abreuveras",
+      "abreuvera",
+      "abreuverons",
+      "abreuverez",
+      "abreuveront"
+    ],
+    "C": [
+      "abreuverais",
+      "abreuverais",
+      "abreuverait",
+      "abreuverions",
+      "abreuveriez",
+      "abreuveraient"
+    ],
+    "W": [
+      "abreuver"
+    ]
+  },
+  "abriter": {
+    "P": [
+      "abrite",
+      "abrites",
+      "abrite",
+      "abritons",
+      "abritez",
+      "abritent"
+    ],
+    "S": [
+      "abrite",
+      "abrites",
+      "abrite",
+      "abritions",
+      "abritiez",
+      "abritent"
+    ],
+    "Y": [
+      "NA",
+      "abrite",
+      "NA",
+      "abritons",
+      "abritez",
+      "NA"
+    ],
+    "I": [
+      "abritais",
+      "abritais",
+      "abritait",
+      "abritions",
+      "abritiez",
+      "abritaient"
+    ],
+    "G": [
+      "abritant"
+    ],
+    "K": [
+      "abrité",
+      "abrités",
+      "abritée",
+      "abritées"
+    ],
+    "J": [
+      "abritai",
+      "abritas",
+      "abrita",
+      "abritâmes",
+      "abritâtes",
+      "abritèrent"
+    ],
+    "T": [
+      "abritasse",
+      "abritasses",
+      "abritât",
+      "abritassions",
+      "abritassiez",
+      "abritassent"
+    ],
+    "F": [
+      "abriterai",
+      "abriteras",
+      "abritera",
+      "abriterons",
+      "abriterez",
+      "abriteront"
+    ],
+    "C": [
+      "abriterais",
+      "abriterais",
+      "abriterait",
+      "abriterions",
+      "abriteriez",
+      "abriteraient"
+    ],
+    "W": [
+      "abriter"
+    ]
+  },
+  "abroger": {
+    "P": [
+      "abroge",
+      "abroges",
+      "abroge",
+      "abrogeons",
+      "abrogez",
+      "abrogent"
+    ],
+    "S": [
+      "abroge",
+      "abroges",
+      "abroge",
+      "abrogions",
+      "abrogiez",
+      "abrogent"
+    ],
+    "Y": [
+      "NA",
+      "abroge",
+      "NA",
+      "abrogeons",
+      "abrogez",
+      "NA"
+    ],
+    "I": [
+      "abrogeais",
+      "abrogeais",
+      "abrogeait",
+      "abrogions",
+      "abrogiez",
+      "abrogeaient"
+    ],
+    "G": [
+      "abrogeant"
+    ],
+    "K": [
+      "abrogé",
+      "abrogés",
+      "abrogée",
+      "abrogées"
+    ],
+    "J": [
+      "abrogeai",
+      "abrogeas",
+      "abrogea",
+      "abrogeâmes",
+      "abrogeâtes",
+      "abrogèrent"
+    ],
+    "T": [
+      "abrogeasse",
+      "abrogeasses",
+      "abrogeât",
+      "abrogeassions",
+      "abrogeassiez",
+      "abrogeassent"
+    ],
+    "F": [
+      "abrogerai",
+      "abrogeras",
+      "abrogera",
+      "abrogerons",
+      "abrogerez",
+      "abrogeront"
+    ],
+    "C": [
+      "abrogerais",
+      "abrogerais",
+      "abrogerait",
+      "abrogerions",
+      "abrogeriez",
+      "abrogeraient"
+    ],
+    "W": [
+      "abroger"
+    ]
+  },
+  "abrutir": {
+    "P": [
+      "abrutis",
+      "abrutis",
+      "abrutit",
+      "abrutissons",
+      "abrutissez",
+      "abrutissent"
+    ],
+    "S": [
+      "abrutisse",
+      "abrutisses",
+      "abrutisse",
+      "abrutissions",
+      "abrutissiez",
+      "abrutissent"
+    ],
+    "Y": [
+      "NA",
+      "abrutis",
+      "NA",
+      "abrutissons",
+      "abrutissez",
+      "NA"
+    ],
+    "I": [
+      "abrutissais",
+      "abrutissais",
+      "abrutissait",
+      "abrutissions",
+      "abrutissiez",
+      "abrutissaient"
+    ],
+    "G": [
+      "abrutissant"
+    ],
+    "K": [
+      "abruti",
+      "abrutis",
+      "abrutie",
+      "abruties"
+    ],
+    "J": [
+      "abrutis",
+      "abrutis",
+      "abrutit",
+      "abrutîmes",
+      "abrutîtes",
+      "abrutirent"
+    ],
+    "T": [
+      "abrutisse",
+      "abrutisses",
+      "abrutît",
+      "abrutissions",
+      "abrutissiez",
+      "abrutissent"
+    ],
+    "F": [
+      "abrutirai",
+      "abrutiras",
+      "abrutira",
+      "abrutirons",
+      "abrutirez",
+      "abrutiront"
+    ],
+    "C": [
+      "abrutirais",
+      "abrutirais",
+      "abrutirait",
+      "abrutirions",
+      "abrutiriez",
+      "abrutiraient"
+    ],
+    "W": [
+      "abrutir"
+    ]
+  },
+  "abréger": {
+    "P": [
+      "abrège",
+      "abrèges",
+      "abrège",
+      "abrégeons",
+      "abrégez",
+      "abrègent"
+    ],
+    "S": [
+      "abrège",
+      "abrèges",
+      "abrège",
+      "abrégions",
+      "abrégiez",
+      "abrègent"
+    ],
+    "Y": [
+      "NA",
+      "abrège",
+      "NA",
+      "abrégeons",
+      "abrégez",
+      "NA"
+    ],
+    "I": [
+      "abrégeais",
+      "abrégeais",
+      "abrégeait",
+      "abrégions",
+      "abrégiez",
+      "abrégeaient"
+    ],
+    "G": [
+      "abrégeant"
+    ],
+    "K": [
+      "abrégé",
+      "abrégés",
+      "abrégée",
+      "abrégées"
+    ],
+    "J": [
+      "abrégeai",
+      "abrégeas",
+      "abrégea",
+      "abrégeâmes",
+      "abrégeâtes",
+      "abrégèrent"
+    ],
+    "T": [
+      "abrégeasse",
+      "abrégeasses",
+      "abrégeât",
+      "abrégeassions",
+      "abrégeassiez",
+      "abrégeassent"
+    ],
+    "F": [
+      "abrégerai",
+      "abrégeras",
+      "abrégera",
+      "abrégerons",
+      "abrégerez",
+      "abrégeront"
+    ],
+    "C": [
+      "abrégerais",
+      "abrégerais",
+      "abrégerait",
+      "abrégerions",
+      "abrégeriez",
+      "abrégeraient"
+    ],
+    "W": [
+      "abréger"
+    ]
+  },
+  "absenter": {
+    "P": [
+      "absente",
+      "absentes",
+      "absente",
+      "absentons",
+      "absentez",
+      "absentent"
+    ],
+    "S": [
+      "absente",
+      "absentes",
+      "absente",
+      "absentions",
+      "absentiez",
+      "absentent"
+    ],
+    "Y": [
+      "NA",
+      "absente",
+      "NA",
+      "absentons",
+      "absentez",
+      "NA"
+    ],
+    "I": [
+      "absentais",
+      "absentais",
+      "absentait",
+      "absentions",
+      "absentiez",
+      "absentaient"
+    ],
+    "G": [
+      "absentant"
+    ],
+    "K": [
+      "absenté",
+      "absentés",
+      "absentée",
+      "absentées"
+    ],
+    "J": [
+      "absentai",
+      "absentas",
+      "absenta",
+      "absentâmes",
+      "absentâtes",
+      "absentèrent"
+    ],
+    "T": [
+      "absentasse",
+      "absentasses",
+      "absentât",
+      "absentassions",
+      "absentassiez",
+      "absentassent"
+    ],
+    "F": [
+      "absenterai",
+      "absenteras",
+      "absentera",
+      "absenterons",
+      "absenterez",
+      "absenteront"
+    ],
+    "C": [
+      "absenterais",
+      "absenterais",
+      "absenterait",
+      "absenterions",
+      "absenteriez",
+      "absenteraient"
+    ],
+    "W": [
+      "absenter"
+    ]
+  },
+  "absolutiser": {
+    "P": [
+      "absolutise",
+      "absolutises",
+      "absolutise",
+      "absolutisons",
+      "absolutisez",
+      "absolutisent"
+    ],
+    "S": [
+      "absolutise",
+      "absolutises",
+      "absolutise",
+      "absolutisions",
+      "absolutisiez",
+      "absolutisent"
+    ],
+    "Y": [
+      "NA",
+      "absolutise",
+      "NA",
+      "absolutisons",
+      "absolutisez",
+      "NA"
+    ],
+    "I": [
+      "absolutisais",
+      "absolutisais",
+      "absolutisait",
+      "absolutisions",
+      "absolutisiez",
+      "absolutisaient"
+    ],
+    "G": [
+      "absolutisant"
+    ],
+    "K": [
+      "absolutisé",
+      "absolutisés",
+      "absolutisée",
+      "absolutisées"
+    ],
+    "J": [
+      "absolutisai",
+      "absolutisas",
+      "absolutisa",
+      "absolutisâmes",
+      "absolutisâtes",
+      "absolutisèrent"
+    ],
+    "T": [
+      "absolutisasse",
+      "absolutisasses",
+      "absolutisât",
+      "absolutisassions",
+      "absolutisassiez",
+      "absolutisassent"
+    ],
+    "F": [
+      "absolutiserai",
+      "absolutiseras",
+      "absolutisera",
+      "absolutiserons",
+      "absolutiserez",
+      "absolutiseront"
+    ],
+    "C": [
+      "absolutiserais",
+      "absolutiserais",
+      "absolutiserait",
+      "absolutiserions",
+      "absolutiseriez",
+      "absolutiseraient"
+    ],
+    "W": [
+      "absolutiser"
+    ]
+  },
+  "absoudre": {
+    "P": [
+      "absous",
+      "absous",
+      "absout",
+      "absolvons",
+      "absolvez",
+      "absolvent"
+    ],
+    "S": [
+      "absolve",
+      "absolves",
+      "absolve",
+      "absolvions",
+      "absolviez",
+      "absolvent"
+    ],
+    "Y": [
+      "NA",
+      "absous",
+      "NA",
+      "absolvons",
+      "absolvez",
+      "NA"
+    ],
+    "I": [
+      "absolvais",
+      "absolvais",
+      "absolvait",
+      "absolvions",
+      "absolviez",
+      "absolvaient"
+    ],
+    "G": [
+      "absolvant"
+    ],
+    "K": [
+      "absous",
+      "absous",
+      "absoute",
+      "absoutes"
+    ],
+    "F": [
+      "absoudrai",
+      "absoudras",
+      "absoudra",
+      "absoudrons",
+      "absoudrez",
+      "absoudront"
+    ],
+    "C": [
+      "absoudrais",
+      "absoudrais",
+      "absoudrait",
+      "absoudrions",
+      "absoudriez",
+      "absoudraient"
+    ],
+    "W": [
+      "absoudre"
+    ]
+  },
+  "absorber": {
+    "P": [
+      "absorbe",
+      "absorbes",
+      "absorbe",
+      "absorbons",
+      "absorbez",
+      "absorbent"
+    ],
+    "S": [
+      "absorbe",
+      "absorbes",
+      "absorbe",
+      "absorbions",
+      "absorbiez",
+      "absorbent"
+    ],
+    "Y": [
+      "NA",
+      "absorbe",
+      "NA",
+      "absorbons",
+      "absorbez",
+      "NA"
+    ],
+    "I": [
+      "absorbais",
+      "absorbais",
+      "absorbait",
+      "absorbions",
+      "absorbiez",
+      "absorbaient"
+    ],
+    "G": [
+      "absorbant"
+    ],
+    "K": [
+      "absorbé",
+      "absorbés",
+      "absorbée",
+      "absorbées"
+    ],
+    "J": [
+      "absorbai",
+      "absorbas",
+      "absorba",
+      "absorbâmes",
+      "absorbâtes",
+      "absorbèrent"
+    ],
+    "T": [
+      "absorbasse",
+      "absorbasses",
+      "absorbât",
+      "absorbassions",
+      "absorbassiez",
+      "absorbassent"
+    ],
+    "F": [
+      "absorberai",
+      "absorberas",
+      "absorbera",
+      "absorberons",
+      "absorberez",
+      "absorberont"
+    ],
+    "C": [
+      "absorberais",
+      "absorberais",
+      "absorberait",
+      "absorberions",
+      "absorberiez",
+      "absorberaient"
+    ],
+    "W": [
+      "absorber"
+    ]
+  },
+  "abstenir": {
+    "P": [
+      "abstiens",
+      "abstiens",
+      "abstient",
+      "abstenons",
+      "abstenez",
+      "abstiennent"
+    ],
+    "S": [
+      "abstienne",
+      "abstiennes",
+      "abstienne",
+      "abstenions",
+      "absteniez",
+      "abstiennent"
+    ],
+    "Y": [
+      "NA",
+      "abstiens",
+      "NA",
+      "abstenons",
+      "abstenez",
+      "NA"
+    ],
+    "I": [
+      "abstenais",
+      "abstenais",
+      "abstenait",
+      "abstenions",
+      "absteniez",
+      "abstenaient"
+    ],
+    "G": [
+      "abstenant"
+    ],
+    "K": [
+      "abstenu",
+      "abstenus",
+      "abstenue",
+      "abstenues"
+    ],
+    "J": [
+      "abstins",
+      "abstins",
+      "abstint",
+      "abstînmes",
+      "abstîntes",
+      "abstinrent"
+    ],
+    "T": [
+      "abstinsse",
+      "abstinsses",
+      "abstînt",
+      "abstinssions",
+      "abstinssiez",
+      "abstinssent"
+    ],
+    "F": [
+      "abstiendrai",
+      "abstiendras",
+      "abstiendra",
+      "abstiendrons",
+      "abstiendrez",
+      "abstiendront"
+    ],
+    "C": [
+      "abstiendrais",
+      "abstiendrais",
+      "abstiendrait",
+      "abstiendrions",
+      "abstiendriez",
+      "abstiendraient"
+    ],
+    "W": [
+      "abstenir"
+    ]
+  },
+  "abstraire": {
+    "P": [
+      "abstrais",
+      "abstrais",
+      "abstrait",
+      "abstrayons",
+      "abstrayez",
+      "abstraient"
+    ],
+    "S": [
+      "abstraie",
+      "abstraies",
+      "abstraie",
+      "abstrayions",
+      "abstrayiez",
+      "abstraient"
+    ],
+    "Y": [
+      "NA",
+      "abstrais",
+      "NA",
+      "abstrayons",
+      "abstrayez",
+      "NA"
+    ],
+    "I": [
+      "abstrayais",
+      "abstrayais",
+      "abstrayait",
+      "abstrayions",
+      "abstrayiez",
+      "abstrayaient"
+    ],
+    "G": [
+      "abstrayant"
+    ],
+    "K": [
+      "abstrait",
+      "abstraits",
+      "abstraite",
+      "abstraites"
+    ],
+    "F": [
+      "abstrairai",
+      "abstrairas",
+      "abstraira",
+      "abstrairons",
+      "abstrairez",
+      "abstrairont"
+    ],
+    "C": [
+      "abstrairais",
+      "abstrairais",
+      "abstrairait",
+      "abstrairions",
+      "abstrairiez",
+      "abstrairaient"
+    ],
+    "W": [
+      "abstraire"
+    ]
+  },
+  "abuser": {
+    "P": [
+      "abuse",
+      "abuses",
+      "abuse",
+      "abusons",
+      "abusez",
+      "abusent"
+    ],
+    "S": [
+      "abuse",
+      "abuses",
+      "abuse",
+      "abusions",
+      "abusiez",
+      "abusent"
+    ],
+    "Y": [
+      "NA",
+      "abuse",
+      "NA",
+      "abusons",
+      "abusez",
+      "NA"
+    ],
+    "I": [
+      "abusais",
+      "abusais",
+      "abusait",
+      "abusions",
+      "abusiez",
+      "abusaient"
+    ],
+    "G": [
+      "abusant"
+    ],
+    "K": [
+      "abusé",
+      "abusés",
+      "abusée",
+      "abusées"
+    ],
+    "J": [
+      "abusai",
+      "abusas",
+      "abusa",
+      "abusâmes",
+      "abusâtes",
+      "abusèrent"
+    ],
+    "T": [
+      "abusasse",
+      "abusasses",
+      "abusât",
+      "abusassions",
+      "abusassiez",
+      "abusassent"
+    ],
+    "F": [
+      "abuserai",
+      "abuseras",
+      "abusera",
+      "abuserons",
+      "abuserez",
+      "abuseront"
+    ],
+    "C": [
+      "abuserais",
+      "abuserais",
+      "abuserait",
+      "abuserions",
+      "abuseriez",
+      "abuseraient"
+    ],
+    "W": [
+      "abuser"
+    ]
+  },
+  "abâtardir": {
+    "P": [
+      "abâtardis",
+      "abâtardis",
+      "abâtardit",
+      "abâtardissons",
+      "abâtardissez",
+      "abâtardissent"
+    ],
+    "S": [
+      "abâtardisse",
+      "abâtardisses",
+      "abâtardisse",
+      "abâtardissions",
+      "abâtardissiez",
+      "abâtardissent"
+    ],
+    "Y": [
+      "NA",
+      "abâtardis",
+      "NA",
+      "abâtardissons",
+      "abâtardissez",
+      "NA"
+    ],
+    "I": [
+      "abâtardissais",
+      "abâtardissais",
+      "abâtardissait",
+      "abâtardissions",
+      "abâtardissiez",
+      "abâtardissaient"
+    ],
+    "G": [
+      "abâtardissant"
+    ],
+    "K": [
+      "abâtardi",
+      "abâtardis",
+      "abâtardie",
+      "abâtardies"
+    ],
+    "J": [
+      "abâtardis",
+      "abâtardis",
+      "abâtardit",
+      "abâtardîmes",
+      "abâtardîtes",
+      "abâtardirent"
+    ],
+    "T": [
+      "abâtardisse",
+      "abâtardisses",
+      "abâtardît",
+      "abâtardissions",
+      "abâtardissiez",
+      "abâtardissent"
+    ],
+    "F": [
+      "abâtardirai",
+      "abâtardiras",
+      "abâtardira",
+      "abâtardirons",
+      "abâtardirez",
+      "abâtardiront"
+    ],
+    "C": [
+      "abâtardirais",
+      "abâtardirais",
+      "abâtardirait",
+      "abâtardirions",
+      "abâtardiriez",
+      "abâtardiraient"
+    ],
+    "W": [
+      "abâtardir"
+    ]
+  },
+  "abéliser": {
+    "P": [
+      "abélise",
+      "abélises",
+      "abélise",
+      "abélisons",
+      "abélisez",
+      "abélisent"
+    ],
+    "S": [
+      "abélise",
+      "abélises",
+      "abélise",
+      "abélisions",
+      "abélisiez",
+      "abélisent"
+    ],
+    "Y": [
+      "NA",
+      "abélise",
+      "NA",
+      "abélisons",
+      "abélisez",
+      "NA"
+    ],
+    "I": [
+      "abélisais",
+      "abélisais",
+      "abélisait",
+      "abélisions",
+      "abélisiez",
+      "abélisaient"
+    ],
+    "G": [
+      "abélisant"
+    ],
+    "K": [
+      "abélisé",
+      "abélisés",
+      "abélisée",
+      "abélisées"
+    ],
+    "J": [
+      "abélisai",
+      "abélisas",
+      "abélisa",
+      "abélisâmes",
+      "abélisâtes",
+      "abélisèrent"
+    ],
+    "T": [
+      "abélisasse",
+      "abélisasses",
+      "abélisât",
+      "abélisassions",
+      "abélisassiez",
+      "abélisassent"
+    ],
+    "F": [
+      "abéliserai",
+      "abéliseras",
+      "abélisera",
+      "abéliserons",
+      "abéliserez",
+      "abéliseront"
+    ],
+    "C": [
+      "abéliserais",
+      "abéliserais",
+      "abéliserait",
+      "abéliserions",
+      "abéliseriez",
+      "abéliseraient"
+    ],
+    "W": [
+      "abéliser"
+    ]
+  },
+  "abêtir": {
+    "P": [
+      "abêtis",
+      "abêtis",
+      "abêtit",
+      "abêtissons",
+      "abêtissez",
+      "abêtissent"
+    ],
+    "S": [
+      "abêtisse",
+      "abêtisses",
+      "abêtisse",
+      "abêtissions",
+      "abêtissiez",
+      "abêtissent"
+    ],
+    "Y": [
+      "NA",
+      "abêtis",
+      "NA",
+      "abêtissons",
+      "abêtissez",
+      "NA"
+    ],
+    "I": [
+      "abêtissais",
+      "abêtissais",
+      "abêtissait",
+      "abêtissions",
+      "abêtissiez",
+      "abêtissaient"
+    ],
+    "G": [
+      "abêtissant"
+    ],
+    "K": [
+      "abêti",
+      "abêtis",
+      "abêtie",
+      "abêties"
+    ],
+    "J": [
+      "abêtis",
+      "abêtis",
+      "abêtit",
+      "abêtîmes",
+      "abêtîtes",
+      "abêtirent"
+    ],
+    "T": [
+      "abêtisse",
+      "abêtisses",
+      "abêtît",
+      "abêtissions",
+      "abêtissiez",
+      "abêtissent"
+    ],
+    "F": [
+      "abêtirai",
+      "abêtiras",
+      "abêtira",
+      "abêtirons",
+      "abêtirez",
+      "abêtiront"
+    ],
+    "C": [
+      "abêtirais",
+      "abêtirais",
+      "abêtirait",
+      "abêtirions",
+      "abêtiriez",
+      "abêtiraient"
+    ],
+    "W": [
+      "abêtir"
+    ]
+  },
+  "abîmer": {
+    "P": [
+      "abîme",
+      "abîmes",
+      "abîme",
+      "abîmons",
+      "abîmez",
+      "abîment"
+    ],
+    "S": [
+      "abîme",
+      "abîmes",
+      "abîme",
+      "abîmions",
+      "abîmiez",
+      "abîment"
+    ],
+    "Y": [
+      "NA",
+      "abîme",
+      "NA",
+      "abîmons",
+      "abîmez",
+      "NA"
+    ],
+    "I": [
+      "abîmais",
+      "abîmais",
+      "abîmait",
+      "abîmions",
+      "abîmiez",
+      "abîmaient"
+    ],
+    "G": [
+      "abîmant"
+    ],
+    "K": [
+      "abîmé",
+      "abîmés",
+      "abîmée",
+      "abîmées"
+    ],
+    "J": [
+      "abîmai",
+      "abîmas",
+      "abîma",
+      "abîmâmes",
+      "abîmâtes",
+      "abîmèrent"
+    ],
+    "T": [
+      "abîmasse",
+      "abîmasses",
+      "abîmât",
+      "abîmassions",
+      "abîmassiez",
+      "abîmassent"
+    ],
+    "F": [
+      "abîmerai",
+      "abîmeras",
+      "abîmera",
+      "abîmerons",
+      "abîmerez",
+      "abîmeront"
+    ],
+    "C": [
+      "abîmerais",
+      "abîmerais",
+      "abîmerait",
+      "abîmerions",
+      "abîmeriez",
+      "abîmeraient"
+    ],
+    "W": [
+      "abîmer"
+    ]
+  },
+  "académifier": {
+    "P": [
+      "académifie",
+      "académifies",
+      "académifie",
+      "académifions",
+      "académifiez",
+      "académifient"
+    ],
+    "S": [
+      "académifie",
+      "académifies",
+      "académifie",
+      "académifiions",
+      "académifiiez",
+      "académifient"
+    ],
+    "Y": [
+      "NA",
+      "académifie",
+      "NA",
+      "académifions",
+      "académifiez",
+      "NA"
+    ],
+    "I": [
+      "académifiais",
+      "académifiais",
+      "académifiait",
+      "académifiions",
+      "académifiiez",
+      "académifiaient"
+    ],
+    "G": [
+      "académifiant"
+    ],
+    "K": [
+      "académifié",
+      "académifiés",
+      "académifiée",
+      "académifiées"
+    ],
+    "J": [
+      "académifiai",
+      "académifias",
+      "académifia",
+      "académifiâmes",
+      "académifiâtes",
+      "académifièrent"
+    ],
+    "T": [
+      "académifiasse",
+      "académifiasses",
+      "académifiât",
+      "académifiassions",
+      "académifiassiez",
+      "académifiassent"
+    ],
+    "F": [
+      "académifierai",
+      "académifieras",
+      "académifiera",
+      "académifierons",
+      "académifierez",
+      "académifieront"
+    ],
+    "C": [
+      "académifierais",
+      "académifierais",
+      "académifierait",
+      "académifierions",
+      "académifieriez",
+      "académifieraient"
+    ],
+    "W": [
+      "académifier"
+    ]
+  },
+  "académiser": {
+    "P": [
+      "académise",
+      "académises",
+      "académise",
+      "académisons",
+      "académisez",
+      "académisent"
+    ],
+    "S": [
+      "académise",
+      "académises",
+      "académise",
+      "académisions",
+      "académisiez",
+      "académisent"
+    ],
+    "Y": [
+      "NA",
+      "académise",
+      "NA",
+      "académisons",
+      "académisez",
+      "NA"
+    ],
+    "I": [
+      "académisais",
+      "académisais",
+      "académisait",
+      "académisions",
+      "académisiez",
+      "académisaient"
+    ],
+    "G": [
+      "académisant"
+    ],
+    "K": [
+      "académisé",
+      "académisés",
+      "académisée",
+      "académisées"
+    ],
+    "J": [
+      "académisai",
+      "académisas",
+      "académisa",
+      "académisâmes",
+      "académisâtes",
+      "académisèrent"
+    ],
+    "T": [
+      "académisasse",
+      "académisasses",
+      "académisât",
+      "académisassions",
+      "académisassiez",
+      "académisassent"
+    ],
+    "F": [
+      "académiserai",
+      "académiseras",
+      "académisera",
+      "académiserons",
+      "académiserez",
+      "académiseront"
+    ],
+    "C": [
+      "académiserais",
+      "académiserais",
+      "académiserait",
+      "académiserions",
+      "académiseriez",
+      "académiseraient"
+    ],
+    "W": [
+      "académiser"
+    ]
+  },
+  "acagnarder": {
+    "P": [
+      "acagnarde",
+      "acagnardes",
+      "acagnarde",
+      "acagnardons",
+      "acagnardez",
+      "acagnardent"
+    ],
+    "S": [
+      "acagnarde",
+      "acagnardes",
+      "acagnarde",
+      "acagnardions",
+      "acagnardiez",
+      "acagnardent"
+    ],
+    "Y": [
+      "NA",
+      "acagnarde",
+      "NA",
+      "acagnardons",
+      "acagnardez",
+      "NA"
+    ],
+    "I": [
+      "acagnardais",
+      "acagnardais",
+      "acagnardait",
+      "acagnardions",
+      "acagnardiez",
+      "acagnardaient"
+    ],
+    "G": [
+      "acagnardant"
+    ],
+    "K": [
+      "acagnardé",
+      "acagnardés",
+      "acagnardée",
+      "acagnardées"
+    ],
+    "J": [
+      "acagnardai",
+      "acagnardas",
+      "acagnarda",
+      "acagnardâmes",
+      "acagnardâtes",
+      "acagnardèrent"
+    ],
+    "T": [
+      "acagnardasse",
+      "acagnardasses",
+      "acagnardât",
+      "acagnardassions",
+      "acagnardassiez",
+      "acagnardassent"
+    ],
+    "F": [
+      "acagnarderai",
+      "acagnarderas",
+      "acagnardera",
+      "acagnarderons",
+      "acagnarderez",
+      "acagnarderont"
+    ],
+    "C": [
+      "acagnarderais",
+      "acagnarderais",
+      "acagnarderait",
+      "acagnarderions",
+      "acagnarderiez",
+      "acagnarderaient"
+    ],
+    "W": [
+      "acagnarder"
+    ]
+  },
+  "accabler": {
+    "P": [
+      "accable",
+      "accables",
+      "accable",
+      "accablons",
+      "accablez",
+      "accablent"
+    ],
+    "S": [
+      "accable",
+      "accables",
+      "accable",
+      "accablions",
+      "accabliez",
+      "accablent"
+    ],
+    "Y": [
+      "NA",
+      "accable",
+      "NA",
+      "accablons",
+      "accablez",
+      "NA"
+    ],
+    "I": [
+      "accablais",
+      "accablais",
+      "accablait",
+      "accablions",
+      "accabliez",
+      "accablaient"
+    ],
+    "G": [
+      "accablant"
+    ],
+    "K": [
+      "accablé",
+      "accablés",
+      "accablée",
+      "accablées"
+    ],
+    "J": [
+      "accablai",
+      "accablas",
+      "accabla",
+      "accablâmes",
+      "accablâtes",
+      "accablèrent"
+    ],
+    "T": [
+      "accablasse",
+      "accablasses",
+      "accablât",
+      "accablassions",
+      "accablassiez",
+      "accablassent"
+    ],
+    "F": [
+      "accablerai",
+      "accableras",
+      "accablera",
+      "accablerons",
+      "accablerez",
+      "accableront"
+    ],
+    "C": [
+      "accablerais",
+      "accablerais",
+      "accablerait",
+      "accablerions",
+      "accableriez",
+      "accableraient"
+    ],
+    "W": [
+      "accabler"
+    ]
+  },
+  "accaparer": {
+    "P": [
+      "accapare",
+      "accapares",
+      "accapare",
+      "accaparons",
+      "accaparez",
+      "accaparent"
+    ],
+    "S": [
+      "accapare",
+      "accapares",
+      "accapare",
+      "accaparions",
+      "accapariez",
+      "accaparent"
+    ],
+    "Y": [
+      "NA",
+      "accapare",
+      "NA",
+      "accaparons",
+      "accaparez",
+      "NA"
+    ],
+    "I": [
+      "accaparais",
+      "accaparais",
+      "accaparait",
+      "accaparions",
+      "accapariez",
+      "accaparaient"
+    ],
+    "G": [
+      "accaparant"
+    ],
+    "K": [
+      "accaparé",
+      "accaparés",
+      "accaparée",
+      "accaparées"
+    ],
+    "J": [
+      "accaparai",
+      "accaparas",
+      "accapara",
+      "accaparâmes",
+      "accaparâtes",
+      "accaparèrent"
+    ],
+    "T": [
+      "accaparasse",
+      "accaparasses",
+      "accaparât",
+      "accaparassions",
+      "accaparassiez",
+      "accaparassent"
+    ],
+    "F": [
+      "accaparerai",
+      "accapareras",
+      "accaparera",
+      "accaparerons",
+      "accaparerez",
+      "accapareront"
+    ],
+    "C": [
+      "accaparerais",
+      "accaparerais",
+      "accaparerait",
+      "accaparerions",
+      "accapareriez",
+      "accapareraient"
+    ],
+    "W": [
+      "accaparer"
+    ]
+  },
+  "accastiller": {
+    "P": [
+      "accastille",
+      "accastilles",
+      "accastille",
+      "accastillons",
+      "accastillez",
+      "accastillent"
+    ],
+    "S": [
+      "accastille",
+      "accastilles",
+      "accastille",
+      "accastillions",
+      "accastilliez",
+      "accastillent"
+    ],
+    "Y": [
+      "NA",
+      "accastille",
+      "NA",
+      "accastillons",
+      "accastillez",
+      "NA"
+    ],
+    "I": [
+      "accastillais",
+      "accastillais",
+      "accastillait",
+      "accastillions",
+      "accastilliez",
+      "accastillaient"
+    ],
+    "G": [
+      "accastillant"
+    ],
+    "K": [
+      "accastillé",
+      "accastillés",
+      "accastillée",
+      "accastillées"
+    ],
+    "J": [
+      "accastillai",
+      "accastillas",
+      "accastilla",
+      "accastillâmes",
+      "accastillâtes",
+      "accastillèrent"
+    ],
+    "T": [
+      "accastillasse",
+      "accastillasses",
+      "accastillât",
+      "accastillassions",
+      "accastillassiez",
+      "accastillassent"
+    ],
+    "F": [
+      "accastillerai",
+      "accastilleras",
+      "accastillera",
+      "accastillerons",
+      "accastillerez",
+      "accastilleront"
+    ],
+    "C": [
+      "accastillerais",
+      "accastillerais",
+      "accastillerait",
+      "accastillerions",
+      "accastilleriez",
+      "accastilleraient"
+    ],
+    "W": [
+      "accastiller"
+    ]
+  },
+  "accentuer": {
+    "P": [
+      "accentue",
+      "accentues",
+      "accentue",
+      "accentuons",
+      "accentuez",
+      "accentuent"
+    ],
+    "S": [
+      "accentue",
+      "accentues",
+      "accentue",
+      "accentuions",
+      "accentuiez",
+      "accentuent"
+    ],
+    "Y": [
+      "NA",
+      "accentue",
+      "NA",
+      "accentuons",
+      "accentuez",
+      "NA"
+    ],
+    "I": [
+      "accentuais",
+      "accentuais",
+      "accentuait",
+      "accentuions",
+      "accentuiez",
+      "accentuaient"
+    ],
+    "G": [
+      "accentuant"
+    ],
+    "K": [
+      "accentué",
+      "accentués",
+      "accentuée",
+      "accentuées"
+    ],
+    "J": [
+      "accentuai",
+      "accentuas",
+      "accentua",
+      "accentuâmes",
+      "accentuâtes",
+      "accentuèrent"
+    ],
+    "T": [
+      "accentuasse",
+      "accentuasses",
+      "accentuât",
+      "accentuassions",
+      "accentuassiez",
+      "accentuassent"
+    ],
+    "F": [
+      "accentuerai",
+      "accentueras",
+      "accentuera",
+      "accentuerons",
+      "accentuerez",
+      "accentueront"
+    ],
+    "C": [
+      "accentuerais",
+      "accentuerais",
+      "accentuerait",
+      "accentuerions",
+      "accentueriez",
+      "accentueraient"
+    ],
+    "W": [
+      "accentuer"
+    ]
+  },
+  "accepter": {
+    "P": [
+      "accepte",
+      "acceptes",
+      "accepte",
+      "acceptons",
+      "acceptez",
+      "acceptent"
+    ],
+    "S": [
+      "accepte",
+      "acceptes",
+      "accepte",
+      "acceptions",
+      "acceptiez",
+      "acceptent"
+    ],
+    "Y": [
+      "NA",
+      "accepte",
+      "NA",
+      "acceptons",
+      "acceptez",
+      "NA"
+    ],
+    "I": [
+      "acceptais",
+      "acceptais",
+      "acceptait",
+      "acceptions",
+      "acceptiez",
+      "acceptaient"
+    ],
+    "G": [
+      "acceptant"
+    ],
+    "K": [
+      "accepté",
+      "acceptés",
+      "acceptée",
+      "acceptées"
+    ],
+    "J": [
+      "acceptai",
+      "acceptas",
+      "accepta",
+      "acceptâmes",
+      "acceptâtes",
+      "acceptèrent"
+    ],
+    "T": [
+      "acceptasse",
+      "acceptasses",
+      "acceptât",
+      "acceptassions",
+      "acceptassiez",
+      "acceptassent"
+    ],
+    "F": [
+      "accepterai",
+      "accepteras",
+      "acceptera",
+      "accepterons",
+      "accepterez",
+      "accepteront"
+    ],
+    "C": [
+      "accepterais",
+      "accepterais",
+      "accepterait",
+      "accepterions",
+      "accepteriez",
+      "accepteraient"
+    ],
+    "W": [
+      "accepter"
+    ]
+  }
+}

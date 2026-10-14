@@ -1,0 +1,143 @@
+{
+  "groups": {
+    "er": {
+      "name": "les verbes du 1er groupe (en -er)",
+      "example": "parler",
+
+      "present": {
+        "radical_rule": "On enlève « -er » pour obtenir le radical (ex. parler → parl-).",
+        "pattern": "radical_plus_ending",
+        "endings": {
+          "je": "e",
+          "tu": "es",
+          "il/elle": "e",
+          "nous": "ons",
+          "vous": "ez",
+          "ils/elles": "ent"
+        }
+      },
+
+      "imparfait": {
+        "radical_rule": "On part de « nous parlons » au présent, on enlève « -ons » → parl-.",
+        "pattern": "radical_plus_ending",
+        "endings": {
+          "je": "ais",
+          "tu": "ais",
+          "il/elle": "ait",
+          "nous": "ions",
+          "vous": "iez",
+          "ils/elles": "aient"
+        }
+      },
+
+      "futur": {
+        "radical_rule": "On garde l’infinitif et on ajoute les terminaisons du futur.",
+        "pattern": "infinitive_plus_ending",
+        "endings": {
+          "je": "ai",
+          "tu": "as",
+          "il/elle": "a",
+          "nous": "ons",
+          "vous": "ez",
+          "ils/elles": "ont"
+        }
+      },
+
+      "conditional": {
+        "radical_rule": "On part de l’infinitif et on ajoute les terminaisons de l’imparfait.",
+        "pattern": "infinitive_plus_ending",
+        "endings": {
+          "je": "ais",
+          "tu": "ais",
+          "il/elle": "ait",
+          "nous": "ions",
+          "vous": "iez",
+          "ils/elles": "aient"
+        }
+      }
+    },
+
+    "ir_finir": {
+      "name": "les verbes en -ir de type « finir »",
+      "example": "finir",
+
+      "present": {
+        "radical_rule": "On enlève « -ir » pour obtenir le radical (finir → fin-).",
+        "pattern": "radical_plus_ending",
+        "endings": {
+          "je": "is",
+          "tu": "is",
+          "il/elle": "it",
+          "nous": "issons",
+          "vous": "issez",
+          "ils/elles": "issent"
+        }
+      },
+
+      "imparfait": {
+        "radical_rule": "On part de « nous finissons », on enlève « -ons » → finiss-.",
+        "pattern": "radical_plus_ending",
+        "endings": {
+          "je": "ais",
+          "tu": "ais",
+          "il/elle": "ait",
+          "nous": "ions",
+          "vous": "iez",
+          "ils/elles": "aient"
+        }
+      },
+
+      "futur": {
+        "radical_rule": "On garde l’infinitif et on ajoute les terminaisons du futur.",
+        "pattern": "infinitive_plus_ending",
+        "endings": {
+          "je": "ai",
+          "tu": "as",
+          "il/elle": "a",
+          "nous": "ons",
+          "vous": "ez",
+          "ils/elles": "ont"
+        }
+      },
+
+      "conditional": {
+        "radical_rule": "On part de l’infinitif et on ajoute les terminaisons de l’imparfait.",
+        "pattern": "infinitive_plus_ending",
+        "endings": {
+          "je": "ais",
+          "tu": "ais",
+          "il/elle": "ait",
+          "nous": "ions",
+          "vous": "iez",
+          "ils/elles": "aient"
+        }
+      }
+    },
+
+    "ir_partir": {
+      "name": "les verbes en -ir de type « partir »",
+      "example": "partir",
+
+      "present": {
+        "radical_rule": "Les formes singulier sont construites sur « pars- » (je pars, tu pars, il part) et le pluriel sur « part- » (nous partons, vous partez, ils partent).",
+        "pattern": "custom_example",
+        "example_line": "Exemple : je pars, tu pars, il/elle part, nous partons, vous partez, ils/elles partent."
+      }
+    }
+  },
+
+  "verb_families": {
+    "ir_finir": ["finir", "choisir", "réussir", "grandir", "rougir", "applaudir"],
+    "ir_partir": ["partir", "sortir", "dormir", "servir", "mentir", "sentir"]
+  },
+
+  "tenses": {
+    "present": { "label": "présent de l’indicatif" },
+    "imparfait": { "label": "imparfait de l’indicatif" },
+    "futur": { "label": "futur simple" },
+    "conditional": { "label": "conditionnel présent" },
+    "passe_compose": { "label": "passé composé" }
+  },
+
+  "passe_compose_generic": "Au passé composé : auxiliaire (avoir ou être) au présent + participe passé. Exemple : j’ai parlé, tu as parlé, nous avons fini, il est parti, ils sont partis."
+}
