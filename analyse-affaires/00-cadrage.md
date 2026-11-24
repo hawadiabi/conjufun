@@ -22,12 +22,12 @@ Valider, après coup, que ConjuFun répond à de vrais besoins, et produire les 
 ## 3. Portée
 
 **Inclus :**
-- les fonctions apprenant livrées : exercices (mode fixe et illimité), rétroaction immédiate, test de niveau, tableau de bord, statistiques, badges, série de jours, historique des erreurs, export PDF ;
-- les cas d'utilisation CU1 à CU8 du rapport du sprint 3 ;
+- les fonctions apprenant livrées : exercices (mode fixe et illimité), rétroaction immédiate, test de niveau, tableau de bord, statistiques par niveau et par temps, badges, série de jours, historique des parties, mode créateur avec import et export par code de partage, export PDF des statistiques ;
+- les cas d'utilisation CU1 à CU7 du rapport du sprint 3 (CU8, la synchronisation, n'est pas déployé : voir [l'état actuel du produit](00-etat-actuel.md)) ;
 - le point de vue de l'enseignant et du parent sur le suivi des progrès.
 
 **Exclus :**
-- les fonctions en ligne non déployées (groupes d'élèves, défis entre amis, synchronisation serveur) : elles seront traitées comme des **besoins à valider**, pas comme des fonctions à tester ;
+- les fonctions non livrées (groupes d'élèves, statistiques par élève pour l'enseignant, défis entre amis, liste des erreurs fréquentes par verbe, synchronisation en ligne) : elles seront traitées comme des **besoins à valider**, pas comme des fonctions à tester ;
 - toute modification du code pendant l'analyse ;
 - la participation directe de mineurs (voir section 6).
 

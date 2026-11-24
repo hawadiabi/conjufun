@@ -7,6 +7,7 @@ Analyse réalisée après le développement de ConjuFun (projet d'équipe INM515
 | Étape | Document | État |
 |---|---|---|
 | 0. Cadrage | [Fiche de cadrage](00-cadrage.md) | Terminé |
+| 0. État actuel | [État actuel du produit](00-etat-actuel.md) | Terminé |
 | 0. Recrutement | [Recrutement des participants](00-recrutement.md) | En cours |
 | 1. Besoins | `01-besoins/` : guide d'entrevue, notes anonymisées, synthèse | À faire |
 | 2. Processus | `02-processus/` : BPMN actuel et cible | À faire |
